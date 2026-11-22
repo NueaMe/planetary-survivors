@@ -1,0 +1,6 @@
+{
+  "name": "Planetary Survivors",
+  "description": "A retro 2D pixel-art roguelike survival action game inspired by Vampire Survivors. Choose between Fisherman and Hunter to survive 20 waves across Earth and Mars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
